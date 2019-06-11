@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		E39C906D22AF7E2700F0E639 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E39C906C22AF7E2700F0E639 /* AppDelegate.m */; };
-		E39C907022AF7E2700F0E639 /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E39C906F22AF7E2700F0E639 /* SceneDelegate.m */; };
 		E39C907322AF7E2700F0E639 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E39C907222AF7E2700F0E639 /* ViewController.m */; };
 		E39C907822AF7E2800F0E639 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E39C907722AF7E2800F0E639 /* Assets.xcassets */; };
 		E39C907B22AF7E2800F0E639 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E39C907922AF7E2800F0E639 /* LaunchScreen.storyboard */; };
@@ -20,8 +19,6 @@
 		E39C906822AF7E2700F0E639 /* SignInwithAppleObj-C.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SignInwithAppleObj-C.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E39C906B22AF7E2700F0E639 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		E39C906C22AF7E2700F0E639 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		E39C906E22AF7E2700F0E639 /* SceneDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SceneDelegate.h; sourceTree = "<group>"; };
-		E39C906F22AF7E2700F0E639 /* SceneDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SceneDelegate.m; sourceTree = "<group>"; };
 		E39C907122AF7E2700F0E639 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		E39C907222AF7E2700F0E639 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		E39C907722AF7E2800F0E639 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -65,8 +62,6 @@
 				E39C908622AF800800F0E639 /* SignInwithAppleObj-C.entitlements */,
 				E39C906B22AF7E2700F0E639 /* AppDelegate.h */,
 				E39C906C22AF7E2700F0E639 /* AppDelegate.m */,
-				E39C906E22AF7E2700F0E639 /* SceneDelegate.h */,
-				E39C906F22AF7E2700F0E639 /* SceneDelegate.m */,
 				E39C907122AF7E2700F0E639 /* ViewController.h */,
 				E39C907222AF7E2700F0E639 /* ViewController.m */,
 				E39C907722AF7E2800F0E639 /* Assets.xcassets */,
@@ -151,7 +146,6 @@
 				E39C907322AF7E2700F0E639 /* ViewController.m in Sources */,
 				E39C906D22AF7E2700F0E639 /* AppDelegate.m in Sources */,
 				E39C907E22AF7E2800F0E639 /* main.m in Sources */,
-				E39C907022AF7E2700F0E639 /* SceneDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
