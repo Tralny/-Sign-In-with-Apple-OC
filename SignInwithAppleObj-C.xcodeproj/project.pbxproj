@@ -13,6 +13,7 @@
 		E39C907B22AF7E2800F0E639 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E39C907922AF7E2800F0E639 /* LaunchScreen.storyboard */; };
 		E39C907E22AF7E2800F0E639 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E39C907D22AF7E2800F0E639 /* main.m */; };
 		E39C908522AF7E5100F0E639 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E39C908422AF7E5100F0E639 /* Main.storyboard */; };
+		E39C908922AF832300F0E639 /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E39C908722AF832300F0E639 /* SceneDelegate.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,8 @@
 		E39C907D22AF7E2800F0E639 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		E39C908422AF7E5100F0E639 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		E39C908622AF800800F0E639 /* SignInwithAppleObj-C.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "SignInwithAppleObj-C.entitlements"; sourceTree = "<group>"; };
+		E39C908722AF832300F0E639 /* SceneDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SceneDelegate.m; sourceTree = "<group>"; };
+		E39C908822AF832300F0E639 /* SceneDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SceneDelegate.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +65,8 @@
 				E39C908622AF800800F0E639 /* SignInwithAppleObj-C.entitlements */,
 				E39C906B22AF7E2700F0E639 /* AppDelegate.h */,
 				E39C906C22AF7E2700F0E639 /* AppDelegate.m */,
+				E39C908822AF832300F0E639 /* SceneDelegate.h */,
+				E39C908722AF832300F0E639 /* SceneDelegate.m */,
 				E39C907122AF7E2700F0E639 /* ViewController.h */,
 				E39C907222AF7E2700F0E639 /* ViewController.m */,
 				E39C907722AF7E2800F0E639 /* Assets.xcassets */,
@@ -146,6 +151,7 @@
 				E39C907322AF7E2700F0E639 /* ViewController.m in Sources */,
 				E39C906D22AF7E2700F0E639 /* AppDelegate.m in Sources */,
 				E39C907E22AF7E2800F0E639 /* main.m in Sources */,
+				E39C908922AF832300F0E639 /* SceneDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
